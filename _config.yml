@@ -1,4 +1,4 @@
-theme: Minimal theme
+theme: jekyll-theme-hacker
 title: Joel's homepage
 description: A landing page for active projects, along with interests and other hobbies. 
 markdown: kramdown
